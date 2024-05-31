@@ -1,0 +1,10 @@
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\bin\Release\FolderSpeed.exe.config
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\bin\Release\FolderSpeed.exe
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\bin\Release\FolderSpeed.pdb
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.csproj.AssemblyReference.cache
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.FolderSpeed.resources
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.Properties.Resources.resources
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.csproj.GenerateResource.cache
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.csproj.CoreCompileInputs.cache
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.exe
+D:\MyFiles\BachelorCourse\FolderSpeed\FolderSpeed\obj\Release\FolderSpeed.pdb
