@@ -132,7 +132,9 @@ namespace FolderSpeed
             using (FolderBrowserDialog dialog = new FolderBrowserDialog())
             {
                 // 显示对话框
+                dialog.Description = "请选择您想快速打开的目标文件夹：";
                 DialogResult result = dialog.ShowDialog();
+                
 
                 // 点击确定按钮
                 if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(dialog.SelectedPath))
