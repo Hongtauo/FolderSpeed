@@ -8,7 +8,7 @@ FolderSpeed是本人开发的一个用于在任务栏上快速打开自己设定
 
 ## 1. 下载程序
 
-在https://github.com/Hongtauo/FolderSpeed/tree/main/FolderSpeed/bin/Release中找到FolderSpeed.exe或者在右侧Release中找到此文件，下载到本地
+在 https://github.com/Hongtauo/FolderSpeed/tree/main/FolderSpeed/bin/Release 中找到FolderSpeed.exe或者在右侧Release中找到此文件，下载到本地
 
 ## 2. 运行
 
