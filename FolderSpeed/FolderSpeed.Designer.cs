@@ -145,18 +145,19 @@
             this.label2.Font = new System.Drawing.Font("黑体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label2.Location = new System.Drawing.Point(15, 12);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(333, 224);
+            this.label2.Size = new System.Drawing.Size(333, 215);
             this.label2.TabIndex = 0;
             this.label2.Text = resources.GetString("label2.Text");
             // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("黑体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label3.Location = new System.Drawing.Point(13, 236);
+            this.label3.Location = new System.Drawing.Point(14, 221);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(333, 62);
             this.label3.TabIndex = 1;
-            this.label3.Text = "说明：\r\n本软件在”“上开源，禁止商业与恶意使用（包括但不限于售卖、修改并倒卖、植入恶意病毒等行为）。\r\n\r\n\r\n\r\n";
+            this.label3.Text = "说明：\r\n软件在https://github.com/Hongtauo/FolderSpeed上开源，禁止商业与恶意使用（包括但不限于售卖、修改并倒卖、植入恶意病" +
+    "毒等行为）。\r\n\r\n\r\n\r\n";
             // 
             // FolderSpeed
             // 
